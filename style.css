@@ -1,0 +1,52 @@
+ body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+        }
+
+        .container {
+            background: #fff;
+            width: 350px;
+            padding: 20px;
+            margin: 50px;
+            border: 1px solid #ccc;
+        }
+
+        h2 {
+            margin-bottom: 5px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        input, select, textarea {
+            width: 100%;
+            padding: 6px;
+            margin-top: 3px;
+        }
+
+        textarea {
+            resize: none;
+        }
+
+        .rating input {
+            width: auto;
+        }
+
+        .buttons {
+            margin-top: 15px;
+        }
+
+        .buttons input {
+            width: auto;
+            padding: 6px 15px;
+            margin-right: 5px;
+        }
+
+        .social img {
+            width: 35px;
+            margin-right: 5px;
+            cursor: pointer;
+        }
